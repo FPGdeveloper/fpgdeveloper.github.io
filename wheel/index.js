@@ -320,12 +320,13 @@ p5Instance.onAfterSetup = function () {
         ['videos/ДОРА + ДУЛО Дорадуло prod. Илья Муррка.mp4'],
         ['videos/Говновоз & Groove Dealers (mashup).mp4'],
         ['videos/Ryan Gosling - Drive [Meme].mp4'],
-        ['videos/Weeknd & Кино (Виктор Цой) — Закрой за мной дверь (Blinding Lights) Mashup by Openlabel.mp4', 38],
         ['videos/МАКSИМ х LANA DEL REY — ОТПУСКАЮ ГРУСТЬ [MASHUP].mp4', 118],
         ['videos/KIRKOROV FILIPP next up real vamp.mp4'],
         ['videos/6 кадров + Pixies Where Is My Mind_.mp4', 23],
         ['videos/ALBLAK 52 — +7(952)812 x Barboskiny (мэшап).mp4'],
         ['videos/Dr Disrespect - Gillette By 199X [Dance Video].mp4', 14],
+        ['videos/ОКСИМИРОН_ & СОЛНЦЕ МОНАКО (MASHUP _ OXXXYMIX).mp4', 5],
+        ['videos/Плыли мы по морю, ветер мачту рвал (x Gorillaz).mp4'],
     ]);
 };
 
